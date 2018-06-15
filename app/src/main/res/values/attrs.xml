@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义耗电排行电池View的自定义属性-->
+    <declare-styleable name="PowerConsumptionRankingsBatteryView">
+        <!-- 手表低电时候的电池颜色 -->
+        <attr name="batteryLowerPowerColor" format="color"/>
+        <!-- 手表在线时候的电池颜色 -->
+        <attr name="batteryOnlineColor" format="color"/>
+        <!-- 手表离线时候的电池颜色 -->
+        <attr name="batteryOfflineColor" format="color"/>
+        <!--  电池最大高度 -->
+        <attr name="batteryLevelMaxHeight" format="integer"/>
+        <!--  电池宽度 -->
+        <attr name="batteryLevelWidth" format="integer"/>
+        <!--  外壳的相关信息 -->
+        <attr name="batteryShellCornerRadius" format="dimension"/>
+        <attr name="batteryShellWidth" format="dimension"/>
+        <attr name="batteryShellHeight" format="dimension"/>
+        <attr name="batteryShellStrokeWidth" format="dimension"/>
+        <!--  电池头的相关信息 -->
+        <attr name="batteryShellHeadCornerRadius" format="dimension"/>
+        <attr name="batteryShellHeadWidth" format="dimension"/>
+        <attr name="batteryShellHeadHeight" format="dimension"/>
+        <!-- 电池外壳和电池等级直接的间距 -->
+        <attr name="batteryGap" format="dimension"/>
+    </declare-styleable>
+
+</resources>

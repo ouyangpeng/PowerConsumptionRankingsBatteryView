@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!--电池控件 高度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_height">48dp</dimen>
+    <!--电池控件 宽度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_width">31dp</dimen>
+
+    <!--电池外壳 厚度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_shell_stroke_width">2.5dp
+    </dimen>
+    <!--电池外壳 宽度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_shell_width">28dp</dimen>
+    <!--电池外壳 高度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_shell_height">42dp</dimen>
+    <!--电池外壳 圆角-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_shell_corner">3dp</dimen>
+
+    <!--电池头 宽度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_head_width">14dp</dimen>
+    <!--电池头 高度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_head_height">3dp</dimen>
+    <!--电池头 圆角-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_head_corner">2dp</dimen>
+
+    <!--电池外壳和电池等级直接的间距-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_view_gap">2dp</dimen>
+
+    <!--电池 宽度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_level_width">22dp</dimen>
+    <!--电池 最大高度-->
+    <dimen name="power_consumption_rankings_dimen_main_battery_level_max_height">35dp</dimen>
+</resources>
